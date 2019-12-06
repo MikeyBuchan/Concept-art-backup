@@ -1,0 +1,4 @@
+Stock - Texture
+Grip - Texture
+Black Matte - Texure		Looks like a solid color/ Maybe white highlights
+Camo - Texure			maybe more obvious
